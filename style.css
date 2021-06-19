@@ -27,13 +27,14 @@
     font-size: 20px;
 }
 
-#myCarouse2
-{
-    background-color: #b5d0d4;
-}
 
-#myCarouse2 img
-{
-    height: 300px;
-    margin-top: 35px;
+.spans {
+    text-align: center;
+}
+.images {
+    width: 500px;
+    height: 500px;
+} 
+.row {
+    text-align: center;
 }
